@@ -1,0 +1,7 @@
+[{"id":1,"name":"Zakaria","subject":"arabic","grade":70},
+    {"id":2,"name":"Hazem","subject":"Maths","grade":60},
+    {"id":3,"name":"Atef","subject":"English","grade":80},
+    {"id":4,"name":"Omar","subject":"Chemistry","grade":65},
+    {"id":5,"name":"Hesham","subject":"sychology","grade":90},
+    {"id":6,"name":"Wael","subject":"History","grade":85},
+    {"id":7,"name":"Ibrahim","subject":"Arabic","grade":85,"comment":"V.Good"}]
